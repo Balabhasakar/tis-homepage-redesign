@@ -3,8 +3,8 @@
 A modern, animated redesign of the Tulas International School homepage focusing on high conversion, fluid animations, and mobile responsiveness.
 
 ## 🚀 Live Demo
-- **Live URL:** [Insert Vercel Link Here]
-- **Repository:** [Insert GitHub Repo Link Here]
+- **Live URL:** [https://tis-homepage-redesign-sand.vercel.app/](https://tis-homepage-redesign-sand.vercel.app/)
+- **Repository:** [https://github.com/Balabhasakar/tis-homepage-redesign](https://github.com/Balabhasakar/tis-homepage-redesign)
 
 ## 🛠️ Tech Stack
 - **Framework:** React 19 with Vite
@@ -25,7 +25,7 @@ All animations respect `prefers-reduced-motion`.
 
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/your-username/tis-homepage-redesign.git
+   git clone https://github.com/Balabhasakar/tis-homepage-redesign.git
    cd tis-homepage-redesign
 ```
 
