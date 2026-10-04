@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <circle cx="32" cy="32" r="32" fill="#60bab1" />
+  <text
+    x="32"
+    y="40"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="24"
+    font-weight="800"
+    fill="#8a0119"
+  >
+    TIS
+  </text>
+</svg>
